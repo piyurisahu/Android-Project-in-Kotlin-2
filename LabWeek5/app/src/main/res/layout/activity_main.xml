@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#E98D2F"
+        android:baselineAligned="false">
+        <Button
+            android:id="@+id/showGreenButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#E98D2F"
+            android:text="C TO F"
+            />
+
+        <Button
+            android:id="@+id/showRedButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#43A047"
+            android:text="F TO C"
+            />
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <FrameLayout
+        android:id="@+id/fragmentHolder"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </FrameLayout>
+
+
+</LinearLayout>

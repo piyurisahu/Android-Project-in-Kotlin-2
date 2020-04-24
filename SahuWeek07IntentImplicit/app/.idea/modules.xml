@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SahuWeek07IntentImplicit.iml" filepath="$PROJECT_DIR$/../SahuWeek07IntentImplicit.iml" group="SahuWeek07IntentImplicit" />
+      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" group="SahuWeek07IntentImplicit/app" />
+    </modules>
+  </component>
+</project>

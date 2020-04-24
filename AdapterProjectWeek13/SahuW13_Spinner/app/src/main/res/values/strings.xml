@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SpinnerProject</string>
+    <string name="seleced_item">Selected professor</string>
+    <string-array name="professors">
+        <item>Gryfinder</item>
+        <item>Hufflepuff</item>
+        <item>Slyhareen</item>
+        <item>Ravenclaw</item>
+    </string-array>
+
+
+    <string-array name="professors_description">
+        <item></item>
+        <item>He is best teacher of hogwart</item>
+        <item>He is the master of Magic</item>
+        <item>Wandering about magic, come to him</item>
+        <item>He will always have your back</item>
+    </string-array>
+
+</resources>

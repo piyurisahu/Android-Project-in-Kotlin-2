@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#69F0AE"
+    tools:context=".GreenFragment">
+
+    <EditText
+        android:id="@+id/messageEditText"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="30dp"
+        android:hint="Enter your name" />
+
+    <TextView
+        android:id="@+id/fragBTextView"
+        android:layout_width="355dp"
+        android:layout_height="69dp"
+        android:layout_below="@+id/messageEditText"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="88dp"
+        android:layout_marginRight="30dp"
+        android:hint="Message from Fragement Blue"
+        />
+    <Button
+        android:id="@+id/goToFragBbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/fragBTextView"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="123dp"
+        android:layout_marginRight="50dp"
+        android:text="Ok Green" />
+
+</RelativeLayout>

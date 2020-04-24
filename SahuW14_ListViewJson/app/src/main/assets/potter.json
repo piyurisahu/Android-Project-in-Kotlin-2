@@ -1,0 +1,49 @@
+[{
+  "role": "Harry Potter",
+  "actor": "Daniel Radcliffe"
+},
+  {
+    "role": "Hermione Granger",
+    "actor": "Emma Watson"
+  },
+  {
+    "role": "Ron Weasley",
+    "actor": "Rupert Grint"
+  },
+  {
+    "role": "Albus Dumbledore",
+    "actor": "Richard Harris/Michael Gambon"
+  },
+  {
+    "role": "Lord Voldemort aka Tom Riddle",
+    "actor": "Richard Bremmer, Christian Coulson, Ralph Fiennes"
+  },
+  {
+    "role": "Rubeus Hagrid",
+    "actor": "Robbie Coltrane"
+  },
+  {
+    "role": "Severus Snape",
+    "actor": "Alan Rickman"
+  },
+  {
+    "role": "Minerva McGonagall",
+    "actor": "Maggie Smith"
+  },
+  {
+    "role": "Draco Malfoy",
+    "actor": "Tom Felton"
+  },
+  {
+    "role": "Sirius Black",
+    "actor": "Gary Oldman"
+  },
+  {
+    "role": "James Potter",
+    "actor": "Adrian Rawlins"
+  },
+  {
+    "role": "Lily Potter",
+    "actor": "Geraldine Somerville"
+  }
+]

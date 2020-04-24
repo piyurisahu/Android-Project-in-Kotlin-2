@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FtoCFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/fToCHeadingTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="Paravastu Week 4 -F to C"
+        android:textAlignment="center"
+        android:textSize="30dp"/>
+
+    <EditText
+        android:id="@+id/farenheitEditText"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+
+        android:layout_below="@id/fToCHeadingTextView"
+        android:padding="10dp"
+        android:layout_marginTop="50dp"
+        android:background="@android:color/background_light"
+        android:hint="Enter Farenheit Number" />
+
+
+    <TextView
+        android:id="@+id/fResultTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="42dp"
+        android:layout_below="@+id/farenheitEditText"
+        android:padding="10dp"
+        android:layout_marginTop="50dp"
+        android:background="@android:color/background_light"
+        />
+
+    <Button
+        android:id="@+id/fToCbutton"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_below="@id/fResultTextView"
+
+        android:layout_marginTop="50dp"
+        android:text="Convert to Celcius"
+        />
+
+    <ImageView
+        android:layout_width="275dp"
+        android:layout_height="216dp"
+        android:layout_below="@id/fToCbutton"
+        android:layout_marginTop="75dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/ic_launcher_background" />
+
+
+</RelativeLayout>

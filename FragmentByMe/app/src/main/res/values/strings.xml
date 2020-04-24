@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentByMe</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_green">Hello  I am green</string>
+    <string name="hello_red">Hello  I am red</string>
+</resources>

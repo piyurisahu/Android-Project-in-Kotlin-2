@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="professor">
+        <item>cuthbert binns</item>
+        <item>charity Burbage</item>
+        <item>Alecto and Amycus Carrow</item>
+        <item>Albus dumbledore</item>
+        <item>Argus Filch</item>
+        <item>Firenze</item>
+        <item>Filius Flitwick</item>
+        <item>Wilhelmin Grublly-Plank</item>
+        <item>Rubeus Hagrid</item>
+        <item>Rolanda Hooch</item>
+        <item>Remus Lubin</item>
+        <item>Minera MCGonagal</item>
+        <item>Alastor "Mad-eye" moody</item>
+        <item>Irma Pince</item>
+        <item>Poppy pomfrey</item>
+        <item>Quirinus Quirrell</item>
+        <item>Aurora Sinista</item>
+        <item>Horane Slughorn</item>
+        <item>Severus Snape</item>
+        <item>Pomona Sprout</item>
+        <item>Sybill</item>
+    </string-array>
+    <string-array name="subject">
+        <item>History of megic</item>
+        <item>Muggle Studies</item>
+        <item>Muggle Studies/ Deputy Headmaster </item>
+        <item>Caretaker</item>
+        <item>Divination</item>
+        <item>Charms</item>
+        <item>Care of magical Creatures</item>
+        <item>Ground Keelper</item>
+        <item>Flying</item>
+        <item>Defence Agaist the dark</item>
+        <item>History of megic</item>
+        <item>History of megic</item>
+        <item>Muggle Studies</item>
+        <item>Muggle Studies/ Deputy Headmaster </item>
+        <item>Caretaker</item>
+        <item>Divination</item>
+        <item>Charms</item>
+        <item>Care of magical Creatures</item>
+        <item>Ground Keelper</item>
+        <item>Flying</item>
+        <item>Defence Agaist the dark</item>
+    </string-array>
+
+    <string-array name="bio">
+        <item>Well, yeah. The cruel Death Eater sibling was hardly going to rank highly here. We never properly saw the Carrows teach, after they were installed in Hogwarts during Lord Voldemort’s ascent in Harry Potter and the Deathly Hallows, but we heard awful stories from Neville about their ‘teaching style’. While one taught Defence Against the Dark Arts (hence why they’re not mentioned here), the other taught Muggle Studies of all things, which was used as an excuse to torture the students. Thank Merlin Voldemort was thwarted before their reign could last much longer.</item>
+        <item>Oh, poor Professor Binns, a teacher so immersed in his subject, History of Magic, that he still pursued his teachings even after he died. No offence to Professor Binns, who seemed relatively harmless, and definitely knows his stuff, but the fact that Harry and his fellow classmates often used the lesson as an excuse for a little nap says it all, really.</item>
+        <item>As ever, analysing Snape in any sort of way is complicated. On the one hand, there’s no mistaking Snape’s exceptional skills in Potions and his fascination with the subject. His grandiose speech about ‘brewing glory’ and ‘stoppering death’ showed just how in tune with Potions he really was. But from bullying students to threatening toads to docking house points for arbitrary reasons, there’s no excuse for such behaviour. Snape was also known to use his lessons to settle personal grudges, such as when he took over Defence Against the Dark Arts to subtly try and hint to the class that his childhood rival, Professor Lupin, was a werewolf.</item>
+        <item>Another Potions professor with ulterior motives – next up is Professor Slughorn. Slughorn is another tricky teacher to figure out – his love of potions and knowledge were obvious, and his Felix Felicis class was genuinely fascinating. But his constant favouring of famous or gifted students wasn’t setting a good example – and sometimes he seemed more interested in his Slug Club parties than anything else. After all, this is the man that taught a young Tom Riddle about Horcruxes, just to seem impressive in class.</item>
+        <item>Of course, Divination is not a subject for everyone, and Trelawney’s placement in this list really depends on whether you appreciate her craft – or just think it’s ‘woolly’ like Hermione did. Trelawney herself was a pretty tactless teacher at times too, regularly upsetting class members, such as predicting Harry’s untimely demise, and even taking out her Seer ‘abilities’ on Lavender Brown’s poor pet rabbit, Binky. There was also the issue that her skills of going ‘into the beyond’ were quite unpredictable at times, and even Professor Dumbledore was unsure of her.</item>
+        <item>Firenze the centaur took over Divination after Sybil Trelawney lost her post during Umbridge’s tenure – with the Divination classroom being transformed into a forest-type setting to make Firenze feel more at home. We didn’t see much of Firenze’s teaching style, but it looked like it involved a lot of lying down and gazing at the stars, which is fine by us.</item>
+        <item>Hagrid’s new assignment as Care of Magical Creatures professor was, of course, a joyous thing – and Harry and co. were thrilled for him to be taking on a job where he got to celebrate his love of fantastic beasts. Now, as much as we love Hagrid, some of the gamekeeper’s taste in beasts for a school curriculum was less than fantastic, often exposing his rather young students to ridiculously dangerous animals, such as the Blast-Ended Skrewts, and setting the class a book that attacks them... and also, all those Flobberworms, Hagrid!</item>
+        <item>Well, yeah. The cruel Death Eater sibling was hardly going to rank highly here. We never properly saw the Carrows teach, after they were installed in Hogwarts during Lord Voldemort’s ascent in Harry Potter and the Deathly Hallows, but we heard awful stories from Neville about their ‘teaching style’. While one taught Defence Against the Dark Arts (hence why they’re not mentioned here), the other taught Muggle Studies of all things, which was used as an excuse to torture the students. Thank Merlin Voldemort was thwarted before their reign could last much longer.</item>
+        <item>Oh, poor Professor Binns, a teacher so immersed in his subject, History of Magic, that he still pursued his teachings even after he died. No offence to Professor Binns, who seemed relatively harmless, and definitely knows his stuff, but the fact that Harry and his fellow classmates often used the lesson as an excuse for a little nap says it all, really.</item>
+        <item>As ever, analysing Snape in any sort of way is complicated. On the one hand, there’s no mistaking Snape’s exceptional skills in Potions and his fascination with the subject. His grandiose speech about ‘brewing glory’ and ‘stoppering death’ showed just how in tune with Potions he really was. But from bullying students to threatening toads to docking house points for arbitrary reasons, there’s no excuse for such behaviour. Snape was also known to use his lessons to settle personal grudges, such as when he took over Defence Against the Dark Arts to subtly try and hint to the class that his childhood rival, Professor Lupin, was a werewolf.</item>
+        <item>Another Potions professor with ulterior motives – next up is Professor Slughorn. Slughorn is another tricky teacher to figure out – his love of potions and knowledge were obvious, and his Felix Felicis class was genuinely fascinating. But his constant favouring of famous or gifted students wasn’t setting a good example – and sometimes he seemed more interested in his Slug Club parties than anything else. After all, this is the man that taught a young Tom Riddle about Horcruxes, just to seem impressive in class.</item>
+        <item>Of course, Divination is not a subject for everyone, and Trelawney’s placement in this list really depends on whether you appreciate her craft – or just think it’s ‘woolly’ like Hermione did. Trelawney herself was a pretty tactless teacher at times too, regularly upsetting class members, such as predicting Harry’s untimely demise, and even taking out her Seer ‘abilities’ on Lavender Brown’s poor pet rabbit, Binky. There was also the issue that her skills of going ‘into the beyond’ were quite unpredictable at times, and even Professor Dumbledore was unsure of her.</item>
+        <item>Firenze the centaur took over Divination after Sybil Trelawney lost her post during Umbridge’s tenure – with the Divination classroom being transformed into a forest-type setting to make Firenze feel more at home. We didn’t see much of Firenze’s teaching style, but it looked like it involved a lot of lying down and gazing at the stars, which is fine by us.</item> <item>Well, yeah. The cruel Death Eater sibling was hardly going to rank highly here. We never properly saw the Carrows teach, after they were installed in Hogwarts during Lord Voldemort’s ascent in Harry Potter and the Deathly Hallows, but we heard awful stories from Neville about their ‘teaching style’. While one taught Defence Against the Dark Arts (hence why they’re not mentioned here), the other taught Muggle Studies of all things, which was used as an excuse to torture the students. Thank Merlin Voldemort was thwarted before their reign could last much longer.</item>
+        <item>Oh, poor Professor Binns, a teacher so immersed in his subject, History of Magic, that he still pursued his teachings even after he died. No offence to Professor Binns, who seemed relatively harmless, and definitely knows his stuff, but the fact that Harry and his fellow classmates often used the lesson as an excuse for a little nap says it all, really.</item>
+        <item>As ever, analysing Snape in any sort of way is complicated. On the one hand, there’s no mistaking Snape’s exceptional skills in Potions and his fascination with the subject. His grandiose speech about ‘brewing glory’ and ‘stoppering death’ showed just how in tune with Potions he really was. But from bullying students to threatening toads to docking house points for arbitrary reasons, there’s no excuse for such behaviour. Snape was also known to use his lessons to settle personal grudges, such as when he took over Defence Against the Dark Arts to subtly try and hint to the class that his childhood rival, Professor Lupin, was a werewolf.</item>
+        <item>Another Potions professor with ulterior motives – next up is Professor Slughorn. Slughorn is another tricky teacher to figure out – his love of potions and knowledge were obvious, and his Felix Felicis class was genuinely fascinating. But his constant favouring of famous or gifted students wasn’t setting a good example – and sometimes he seemed more interested in his Slug Club parties than anything else. After all, this is the man that taught a young Tom Riddle about Horcruxes, just to seem impressive in class.</item>
+        <item>Of course, Divination is not a subject for everyone, and Trelawney’s placement in this list really depends on whether you appreciate her craft – or just think it’s ‘woolly’ like Hermione did. Trelawney herself was a pretty tactless teacher at times too, regularly upsetting class members, such as predicting Harry’s untimely demise, and even taking out her Seer ‘abilities’ on Lavender Brown’s poor pet rabbit, Binky. There was also the issue that her skills of going ‘into the beyond’ were quite unpredictable at times, and even Professor Dumbledore was unsure of her.</item>
+        <item>Well, yeah. The cruel Death Eater sibling was hardly going to rank highly here. We never properly saw the Carrows teach, after they were installed in Hogwarts during Lord Voldemort’s ascent in Harry Potter and the Deathly Hallows, but we heard awful stories from Neville about their ‘teaching style’. While one taught Defence Against the Dark Arts (hence why they’re not mentioned here), the other taught Muggle Studies of all things, which was used as an excuse to torture the students. Thank Merlin Voldemort was thwarted before their reign could last much longer.</item>
+        <item>Oh, poor Professor Binns, a teacher so immersed in his subject, History of Magic, that he still pursued his teachings even after he died. No offence to Professor Binns, who seemed relatively harmless, and definitely knows his stuff, but the fact that Harry and his fellow classmates often used the lesson as an excuse for a little nap says it all, really.</item>
+        <item>As ever, analysing Snape in any sort of way is complicated. On the one hand, there’s no mistaking Snape’s exceptional skills in Potions and his fascination with the subject. His grandiose speech about ‘brewing glory’ and ‘stoppering death’ showed just how in tune with Potions he really was. But from bullying students to threatening toads to docking house points for arbitrary reasons, there’s no excuse for such behaviour. Snape was also known to use his lessons to settle personal grudges, such as when he took over Defence Against the Dark Arts to subtly try and hint to the class that his childhood rival, Professor Lupin, was a werewolf.</item>
+        <item>Another Potions professor with ulterior motives – next up is Professor Slughorn. Slughorn is another tricky teacher to figure out – his love of potions and knowledge were obvious, and his Felix Felicis class was genuinely fascinating. But his constant favouring of famous or gifted students wasn’t setting a good example – and sometimes he seemed more interested in his Slug Club parties than anything else. After all, this is the man that taught a young Tom Riddle about Horcruxes, just to seem impressive in class.</item>
+       </string-array>
+</resources>

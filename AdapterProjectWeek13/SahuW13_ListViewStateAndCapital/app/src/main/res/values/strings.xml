@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ListViewStateAndCapital</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="statesArray">
+        <item>Alabama</item>
+        <item>Alaska</item>
+        <item>Arizona</item>
+        <item>Arkanas</item>
+        <item>California</item>
+        <item>Colorado</item>
+        <item>Connecticut</item>
+        <item>Delaware</item>
+        <item>Florida</item>
+        <item>Georgia</item>
+        <item>Hawaii</item>
+        <item>Idaho</item>
+        <item>Illinois</item>
+        <item>Alabama</item>
+    </string-array>
+    <string-array name="captialsArray">
+        <item>Montgomery</item>
+        <item>Juneau</item>
+        <item>Pheonix</item>
+        <item>Little Rock</item>
+        <item>Sacramento</item>
+        <item>Denver</item>
+        <item>Hardford</item>
+        <item>Dover</item>
+        <item>Tallahassee</item>
+        <item>Boise</item>
+        <item>Springfeild</item>
+        <item>Indianapolos</item>
+        <item>Topeka</item>
+        <item>Augusta</item>
+    </string-array>
+</resources>
