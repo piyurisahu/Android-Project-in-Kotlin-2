@@ -19,22 +19,22 @@
         android:paddingLeft="15dp"
         >
         <TextView
-            android:id="@+id/row_name"
+            android:id="@+id/cityName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Name"
+            android:text="City Name"
             android:textStyle="bold"/>
         <TextView
-            android:id="@+id/row_age"
+            android:id="@+id/hotelRateLabel"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Age"/>
+            android:text="Hotel Rate"/>
 
         <TextView
-            android:id="@+id/row_city"
+            android:id="@+id/hotelRateo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="City"/>
+            android:text="Hotel Rate"/>
     </LinearLayout>
 
 </LinearLayout>

@@ -25,34 +25,26 @@ class MainActivity : AppCompatActivity() {
 
     fun jsonReaderFunction() {
         val cityView = findViewById<ListView>(R.id.listView)
+        val cityList = ArrayList<City>()
 
 
         try {
             val inputStream: InputStream = assets.open("cities_json.json")
             var cityArray = JSONArray(inputStream.bufferedReader().use { it.readText() })
 
-
-
             for (i in 0 until cityArray.length()) {
                 val singleUser = cityArray.getJSONObject(i)
-                val map = HashMap<String, String>()
-                map["name"] = singleUser.getString("name")
-                map["age"] = singleUser.getString("age")
-                map["city"] = singleUser.getString("city")
-                map["image"] = singleUser.getString("image")
+                val city= singleUser.getString("city")
+                val hotel = singleUser.getString("hotel")
+                val state = singleUser.getString("state")
+                val description = singleUser.getString("description")
+                val weather = singleUser.getString("weather")
                 val image = singleUser.getString("image")
-                dataList.add(map)
+                val imageId= resources.getIdentifier(image, "drawable", packageName)
+                cityList.add(City(city, hotel, description, weather, state, imageId))
             }
 
-            cityView.adapter = CustomAdapter(this@MainActivity, dataList)
-//            potterListView.onItemClickListener =
-//                AdapterView.OnItemClickListener { parent, view, position, id ->
-//                    val actorTextView = findViewById<TextView>(R.id.actorTextView)
-//                    val role = potterRoleList[position]
-//                    val actor = potterActorList[position]
-//
-//                    actorTextView.text = role + " was played by " + actor
-//                }
+            cityView.adapter = CustomAdapter(this@MainActivity, cityList)
         } catch (ex: Exception) {
             Log.d("Look Here", ex.toString())
             Toast.makeText(this, "Error occured: ${ex.toString()}", Toast.LENGTH_LONG).show()

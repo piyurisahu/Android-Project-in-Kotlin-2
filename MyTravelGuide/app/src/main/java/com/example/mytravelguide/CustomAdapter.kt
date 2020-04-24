@@ -9,6 +9,7 @@ import android.view.ViewGroup
 import android.widget.BaseAdapter
 import android.widget.ImageView
 import android.widget.TextView
+import com.example.mytravelguide.City
 import com.example.mytravelguide.CityInformation
 import com.example.mytravelguide.R
 import com.squareup.picasso.Picasso
@@ -16,7 +17,7 @@ import kotlinx.android.synthetic.main.list_row.view.*
 
 
 class CustomAdapter(private val context: Context,
-                    private val dataList: ArrayList<HashMap<String, String>>) : BaseAdapter() {
+                    private val dataList: ArrayList<City>) : BaseAdapter() {
 
     private val inflater: LayoutInflater = this.context.getSystemService(Context.LAYOUT_INFLATER_SERVICE) as LayoutInflater
     override fun getCount(): Int { return dataList.size }
@@ -27,27 +28,20 @@ class CustomAdapter(private val context: Context,
         var dataitem = dataList[position]
 
         val rowView = inflater.inflate(R.layout.list_row, parent, false)
-        rowView.findViewById<TextView>(R.id.row_name).text = dataitem.get("name")
-        rowView.findViewById<TextView>(R.id.row_age).text = dataitem.get("age")
-        rowView.findViewById<TextView>(R.id.row_city).text = dataitem.get("city")
-//        rowView.row_image.setImageResource(animal.image!!)
+        var city = dataitem.city
+        var hotel = dataitem.hotel
+        rowView.findViewById<TextView>(R.id.cityName).text = city
+        rowView.findViewById<TextView>(R.id.hotelRateo).text = hotel
         rowView.row_image.setOnClickListener {
 
             val intent = Intent(context,CityInformation::class.java)
-            intent.putExtra("name",dataitem.get("name")!!)
-            intent.putExtra("age",dataitem.get("age")!!)
-            intent.putExtra("image",dataitem.get("city")!!)
+            intent.putExtra("hotel",hotel!!)
+            intent.putExtra("image",dataitem.image!!)
 
             context!!.startActivity(intent)
-
-
         }
 
-        Picasso.get()
-            .load(dataitem.get("image"))
-            .resize(50, 50)
-            .centerCrop()
-            .into(rowView.findViewById<ImageView>(R.id.row_image))
+        rowView.row_image.setImageResource(dataitem.image!!)
 
         rowView.tag = position
         return rowView

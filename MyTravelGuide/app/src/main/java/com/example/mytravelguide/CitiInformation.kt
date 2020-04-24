@@ -12,8 +12,8 @@ class CityInformation : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_citi_information)
         val bundle:Bundle = intent.extras!!
-        val name =bundle.getString("name")
-        val age = bundle.getString("age")
+        val name =bundle.getString("city")
+        val age = bundle.getString("state")
         val image=bundle.getInt("image")
         cityImage.setImageResource(image)
         cityName.text=name
