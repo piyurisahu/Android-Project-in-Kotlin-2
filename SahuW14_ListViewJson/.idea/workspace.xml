@@ -6,7 +6,45 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3167e347-9c3f-4264-afce-7e3247375c31" name="Default Changelist" comment="" />
+    <list default="true" id="3167e347-9c3f-4264-afce-7e3247375c31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../KotlinUdemy/Android/TicTacToy Game/TicTacToyOnline/TicTacToyLocal/.idea/TicTacToyLocal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KotlinUdemy/Android/ZooApp/StartUp/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KotlinUdemy/Android/sensors/light/.idea/light.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTravelGuide/app/src/main/assets/cities_json.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTravelGuide/app/src/main/java/com/example/mytravelguide/CitiInfo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTravelGuide/app/src/main/java/com/example/mytravelguide/CitiInformation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTravelGuide/app/src/main/java/com/example/mytravelguide/City.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTravelGuide/app/src/main/java/com/example/mytravelguide/CustomAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTravelGuide/app/src/main/java/com/example/mytravelguide/FirstFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTravelGuide/app/src/main/java/com/example/mytravelguide/SecondFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTravelGuide/app/src/main/res/drawable-v24/kansas_city.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTravelGuide/app/src/main/res/layout/activity_citi_information.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTravelGuide/app/src/main/res/layout/content_citi_information.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTravelGuide/app/src/main/res/layout/fragment_first.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTravelGuide/app/src/main/res/layout/fragment_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTravelGuide/app/src/main/res/layout/list_row.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTravelGuide/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTravelGuide/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SahuW14_RecyclerView/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Minimal-Todo" beforeDir="false" afterPath="$PROJECT_DIR$/../Minimal-Todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFinalProject" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFinalProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SahuW14_RecyclerView/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SahuW14_RecyclerView/.idea/gradle.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +64,15 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ah82rfDCD6ulFpH2KalV4A8ekI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="192.168.56.102:5555" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-04-18T03:53:34.432Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
@@ -117,5 +160,16 @@
       <updated>1587176260512</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

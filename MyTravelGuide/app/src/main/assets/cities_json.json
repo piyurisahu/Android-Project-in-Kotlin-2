@@ -1,0 +1,26 @@
+[
+ {
+"name":"John",
+"age":"23",
+"city":"Agra",
+"image":"https://photos.google.com/photo/AF1QipM6DMQXrSNzfZXD7jOkBF6516Hr2rcbce_CFCUC"
+},
+{
+"name":"Steve",
+"age":"28",
+"city":"Delhi",
+"image":"R.drawable.baboon"
+},
+{
+"name":"Peter",
+"age":"32",
+"city":"Chennai",
+"image":"https://www.androdocs.com/files/uploads/small/peter-json-tutorial-image-1567766835.jpg"
+},
+{
+"name":"Ananya",
+"age":"28",
+"city":"Bangalore",
+"image":"https://www.androdocs.com/files/uploads/small/ananya-json-tutorial-image-1567766865.jpg"
+}
+]
